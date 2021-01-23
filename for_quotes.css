@@ -1,0 +1,17 @@
+.contquo {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background: rgb(236, 223, 240);
+}
+.blockquote {
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-right: 50px;
+    
+}
+
+.blockquote-footer {
+    padding: 30px;
+}
