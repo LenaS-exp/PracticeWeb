@@ -7,6 +7,6 @@
  
   $res = $mysqli->query("INSERT INTO `review` (`id`, `login`, `text`) VALUES (NULL, '$login', '$text') ");
   
-  header('Location: users_reviews.php');
+  header('Location: /practice/users_reviews.php');
   $mysqli -> close();
 ?>
